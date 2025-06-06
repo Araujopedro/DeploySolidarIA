@@ -1,7 +1,6 @@
 
 # 🌟 SolidárIA: Conectando Ajuda Rápida e Eficaz em Situações de Catástrofe
 
-![Banner SolidárIA - Imagem Placeholder para o seu Logo ou uma Ilustração de Ajuda Humanitária](https://via.placeholder.com/1000x300?text=Solid%C3%A1rIA%20-%20Sua%20Logo%20aqui)
 
 ## LINK DO VIDEO NO YOUTUBE
 
