@@ -37,7 +37,8 @@ A SolidárIA surge como a resposta a esses desafios, oferecendo uma plataforma *
 A SolidárIA é construída sobre uma arquitetura moderna e escalável para garantir performance e segurança.
 
 **Diagrama da Arquitetura:**
-![image](https://github.com/user-attachments/assets/6a584f12-cec3-4380-a967-119f1b1333b6)
+![image](https://github.com/user-attachments/assets/5b51de4e-5d0a-4c4e-aaa0-c5a984cda4b4)
+
 
 
 Nossos principais componentes incluem:
